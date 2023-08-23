@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Olá, eu sou o Bruno Brandão da Silva 
+### Olá, eu sou o Bruno Brandão da Silva 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-brand%C3%A3o-da-silva-b5aa6896/)
 
